@@ -1,0 +1,66 @@
+#div1{
+    height: 400px;
+    width: 900px;
+    background-color: #29CED9;
+    margin-left: 300px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+#btn{
+    height: 70px;
+    width: 200px;
+    margin-top: 25px;
+    margin-left: 350px;
+    background-color: #6493DA;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: #363674;
+    font-size: 30px;
+    color: white;
+
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    height: 100px;
+}
+
+input[type="text"]{
+    height: 40px;
+    width: 200px;
+    margin-left: 350px;
+    font-size: 25px;
+    color: #6493DA;
+    text-align: center;
+}
+#para1{
+    font-size: 50px;
+    color: black;
+}
+#para2{
+    font-size: 30px;
+    
+    margin-top: -70px;
+}
+
+#para3{
+    height: 50px;
+    color: black;
+}
+
+#btn2{
+    margin-left: 390px;
+}
+
+span{
+    color: red;
+}
+*{
+    text-decoration: none;
+}
